@@ -79,7 +79,7 @@ while bandera == True:
     
     albuum = input("Album: ")
     
-    Unir_album = make_album(artist, albuum)
+    Unir_album = make_album(artist, albuum) 
     print(Unir_album)
 
 
